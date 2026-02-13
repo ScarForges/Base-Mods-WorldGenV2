@@ -1,0 +1,20 @@
+{
+  "Group": "Scar",
+  "Name": "ScarForges Instancia WorldGenV2",
+  "Version": "1.0.0",
+  "Description": "Mod con bioma ScarForgesBioma e instancia ScarForgesInstancia",
+  "Authors": [
+    {
+      "Name": "Scar",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
